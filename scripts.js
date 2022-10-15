@@ -56,12 +56,9 @@ const bookmarks = [
   {
     label: "Social Media",
     bookmarks: [
-      { label: "YouTube", url: "https://youtube.com" },
-      {
-        label: "Discord",
-        url: "https://discord.com/app",
-      },
+      { label: "Facebook", url: "https://facebook.com" },
       { label: "Instagram", url: "https://instagram.com" },
+      { label: "Twitter", url: "https://twitter.com/" },
       { label: "Reddit", url: "https://reddit.com/" },
     ],
   },
@@ -69,14 +66,9 @@ const bookmarks = [
     label: "Productivity",
     bookmarks: [
       { label: "Github", url: "https://github.com/" },
-      { label: "Keybr", url: "https://keybr.com" },
       {
         label: "Monkey Type",
         url: "https://monkeytype.com",
-      },
-      {
-        label: "Image Enlarger",
-        url: "https://bigjpg.com/en",
       },
     ],
   },
