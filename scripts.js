@@ -66,25 +66,16 @@ const bookmarks = [
     label: "Productivity",
     bookmarks: [
       { label: "Github", url: "https://github.com/" },
-      {
-        label: "Monkey Type",
-        url: "https://monkeytype.com",
-      },
+      { label: "Monkey Type", url: "https://monkeytype.com" },
     ],
   },
   {
-    label: "CTF",
+    label: "4c",
     bookmarks: [
-      { label: "CTF Time", url: "https://ctftime.org" },
-      {
-        label: "Try Hack Me",
-        url: "https://tryhackme.com/",
-      },
-      {
-        label: "Hack Tricks",
-        url: "https://book.hacktricks.xyz/welcome/readme",
-      },
-      { label: "Cyber Chef", url: "https://gchq.github.io/CyberChef/" },
+      { label: "/a/", url: "https://boards.4channel.org/a/" },
+      { label: "/v/", url: "https://boards.4channel.org/v/" },
+      { label: "/fa/", url: "https://boards.4channel.org/fa/" },
+      { label: "/wsg/", url: "https://boards.4channel.org/wsg/" },
     ],
   },
 ];
